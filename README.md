@@ -12,7 +12,7 @@ Simulación concurrente en Java para la monitorización automática de un invern
 ---
 
 ## Cómo ejecutarlo
-1. Clonar el repositorio: `git clone https://github.com/tu-usuario/psp-ud4-invernadero.git`
+1. Clonar el repositorio: `git clone https://github.com/joseluismba60-ops/psp-ud4-invernadero.git`
 2. Abrir el proyecto en IntelliJ IDEA con **JDK 21**.
 3. Ejecutar las clases situadas en `src/fasedemo/`:
    * `Fase1_Secuencial.java`
